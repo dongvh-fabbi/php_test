@@ -1,8 +1,8 @@
-# Fabbi React Assignment 1
+# Fabbi React Native Assignment 1
 
 <!-- toc -->
 
-- [Fabbi React Assignment 1](#fabbi-react-assignment-1)
+- [Fabbi React Native Assignment 1](#fabbi-React Native-assignment-1)
   - [Requirements](#requirements)
     - [Must](#must)
     - [Optional](#optional)
@@ -22,22 +22,16 @@
 
 ### Must
 
-- Use `React`
+- Use `React Native`
+- Use `Typescript`
 - Use `ES6+`
-- Use `hooks`
 
 ### Optional
 
 - Use with [Ant Design](https://ant.design/) or [MaterialUI](https://material-ui.com/)
-- Use a type system (preferred `typescript`)
+- Use `Redux`
 - Write Unit Tests (any testing library, but preferred `jest`)
 - Write Integration Tests
-
-## Setup
-
-As this test is to evaluate basic `React` skills, we are not be focusing on tooling setup (webpack, babel, etc...).
-
-So feel free to use [create react app](https://github.com/facebookincubator/create-react-app) to jump-start your development, although if not comfortable custom setup is also welcomed.
 
 ## Description
 
