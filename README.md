@@ -1,8 +1,8 @@
-# Fabbi React Assignment 1
+# Fabbi PHP
 
 <!-- toc -->
 
-- [Fabbi React Assignment 1](#fabbi-react-assignment-1)
+- [Fabbi PHP](#fabbi-php-assignment-1)
   - [Requirements](#requirements)
     - [Must](#must)
     - [Optional](#optional)
@@ -22,22 +22,17 @@
 
 ### Must
 
-- Use `React`
-- Use `ES6+`
-- Use `hooks`
+- Use `PHP / Laravel`
+- Use `HTML /  CSS/ JS`
 
 ### Optional
-
+- Use vuejs or laravel blade
 - Use with [Ant Design](https://ant.design/) or [MaterialUI](https://material-ui.com/)
 - Use a type system (preferred `typescript`)
-- Write Unit Tests (any testing library, but preferred `jest`)
-- Write Integration Tests
 
 ## Setup
 
-As this test is to evaluate basic `React` skills, we are not be focusing on tooling setup (webpack, babel, etc...).
-
-So feel free to use [create react app](https://github.com/facebookincubator/create-react-app) to jump-start your development, although if not comfortable custom setup is also welcomed.
+Install with laravel latest version
 
 ## Description
 
